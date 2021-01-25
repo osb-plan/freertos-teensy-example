@@ -93,7 +93,6 @@ static void ThreadBlink(void *arg)
 		}
 		cnt++;
 	}
-
 }
 
 void setup()
